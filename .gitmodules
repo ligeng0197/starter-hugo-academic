@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ligeng0197/ligeng0197.github.io.git
+	branch = main
