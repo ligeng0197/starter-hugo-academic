@@ -1,7 +1,7 @@
 ---
 title: Geng Li
 role: Postgraduate of Computer Science
-avatar_filename: 1657718921786_1.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include deep learning, few-shot learning, meta-learning.
 interests:
   - Artificial Intelligence
