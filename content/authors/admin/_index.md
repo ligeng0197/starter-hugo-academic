@@ -1,7 +1,7 @@
 ---
 title: Geng Li
-role: postgraduate of AI
-avatar_filename: 1657718921786.jpg
+role: Postgraduate of Computer Science
+avatar_filename: 1657718921786_1.jpg
 bio: My research interests include deep learning, few-shot learning, meta-learning.
 interests:
   - Artificial Intelligence
@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=0ufMJz4AAAAJ&gmla=AJsN-F4Yt-QQ0LJieitnLE8xLQMmiqnNkGsqeaUnDVgOdliVK-oLe65CkiTYKf6mLiSaGnBlhoBcct7hxVx3222Mook_AgvHw_Kqo8qDo1LhWrBcFI3oDuWqdGNloiuL_96uT-yYSkyc
   - icon: github
     icon_pack: fab
     link: https://github.com/ligeng0197
