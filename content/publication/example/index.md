@@ -1,79 +1,50 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: To accelerate learning process with few samples, meta-learning resorts
+  to prior knowledge from previous tasks. However, the inconsistent task
+  distribution and heterogeneity is hard to be handled through a global sharing
+  model initialization. In this paper, based on gradient-based meta-learning, we
+  propose an ensemble embedded meta-learning algorithm (EEML) that explicitly
+  utilizes multi-model-ensemble to organize prior knowledge into diverse
+  specific experts. We rely on a task embedding cluster mechanism to deliver
+  diverse tasks to matching experts in training process and instruct how experts
+  collaborate in test phase. As a result, the multi experts can focus on their
+  own area of expertise and cooperate in upcoming task to solve the task
+  heterogeneity. The experimental results show that the proposed method
+  outperforms recent state-of-the-arts easily in few-shot learning problem,
+  which validates the importance of differentiation and cooperation.
+slides: example
+url_pdf: ""
+publication_types:
+  - "3"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Geng Li
+  - Boyuan Ren
+  - Hongzhi Wang
+author_notes: []
+publication: "Arxiv "
+summary: This work is mainly a paradigm about blending ensemble-learning in
+  gradient-based meta-learning algorithm to attain better efficacy.
+url_dataset: ""
+url_project: ""
+publication_short: (Under review from WISE)
+url_source: ""
+url_video: ""
+title: "EEML: Ensemble Embedded Meta-learning"
+doi: " https://doi.org/10.48550/arXiv.2206.09195"
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+tags: []
 projects:
   - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
+  preview_only: false
+  filename: 图.svg
+date: 2022-07-14T14:57:22.859Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
