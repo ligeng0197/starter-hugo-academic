@@ -28,7 +28,7 @@ education:
     - course: Bsc in Computer Science
       institution: Harbin Institute of Technology
       year: ""
-email: ""
+email: 21S003022@stu.hit.edu.cn
 superuser: true
 highlight_name: true
 ---
