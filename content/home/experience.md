@@ -31,5 +31,6 @@ title: Experience
 subtitle: null
 design:
   columns: "2"
+  background:
+    image_darken: 0
 ---
-Don know where
