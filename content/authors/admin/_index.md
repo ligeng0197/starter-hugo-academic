@@ -22,10 +22,10 @@ organizations:
     url: https://www.hit.edu.cn/
 education:
   courses:
-    - course: Academic Master in Computer Science
+    - course: Msc in Computer Science
       institution: Harbin Institute of Technology
       year: ""
-    - course: Bachelor in Computer Science
+    - course: Bsc in Computer Science
       institution: Harbin Institute of Technology
       year: ""
 email: ""
