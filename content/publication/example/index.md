@@ -12,8 +12,8 @@ abstract: To accelerate learning process with few samples, meta-learning resorts
   heterogeneity. The experimental results show that the proposed method
   outperforms recent state-of-the-arts easily in few-shot learning problem,
   which validates the importance of differentiation and cooperation.
-slides: example
-url_pdf: ""
+
+url_pdf: https://arxiv.org/pdf/2206.09195
 publication_types:
   - "1"
 authors:
@@ -21,39 +21,21 @@ authors:
   - Boyuan Ren
   - Hongzhi Wang
 author_notes: []
-publication: "arxiv: https://arxiv.org/abs/2206.09195"
+publication: "WISE 2022 accepted. preprint arxiv: https://arxiv.org/abs/2206.09195"
 summary: This work is mainly about few-shot training paradigm of integrating
   ensemble learning with gradient-based meta-learning to utilize advantages of
   divergence and cooperation between experts to attain efficacy improvement.
-url_dataset: ""
-url_project: ""
 publication_short: (Accepted by WISE 2022)
-url_source: ""
-url_video: ""
 title: "EEML: Ensemble Embedded Meta-learning"
 doi: " https://doi.org/10.48550/arXiv.2206.09195"
 featured: true
 tags: []
-projects:
-  - example
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: image.jpg
 date: 2022-07-14T14:57:22.859Z
-url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
-url_code: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
