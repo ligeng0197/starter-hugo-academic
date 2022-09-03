@@ -26,7 +26,7 @@ summary: This work is mainly a paradigm about blending ensemble-learning in
   gradient-based meta-learning algorithm to attain better efficacy.
 url_dataset: ""
 url_project: ""
-publication_short: (Under review from WISE)
+publication_short: (Accepted by WISE 2022)
 url_source: ""
 url_video: ""
 title: "EEML: Ensemble Embedded Meta-learning"
@@ -39,7 +39,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-  filename: 图.svg
+  filename: ""
 date: 2022-07-14T14:57:22.859Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z

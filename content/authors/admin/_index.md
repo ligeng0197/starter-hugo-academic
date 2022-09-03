@@ -32,6 +32,6 @@ email: 21S003022@stu.hit.edu.cn
 superuser: true
 highlight_name: true
 ---
-Geng Li is a postgraduate student at Harbin Institute of Technology(HIT) Massive Data Computing(MDC) Lab. His research interests include federal learning, few-shot learning and meta-learning. He has two works focusing on federal learning and meta-learning published already at arxiv and being under review of  TKDE & WISE 2022.
+Geng Li is a postgraduate student at Harbin Institute of Technology(HIT), Massive Data Computing(MDC) Lab. His research interests include federal learning, few-shot learning and meta-learning. He has two works focusing on federal learning and meta-learning published already at arxiv and being under review of  TKDE & WISE 2022.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.

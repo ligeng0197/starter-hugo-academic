@@ -5,9 +5,9 @@ publication_types:
 authors:
   - Geng Li
 draft: false
-featured: false
+featured: True
 image:
-  filename: featured
+  filename: image
   focal_point: Smart
   preview_only: false
 date: 2022-07-14T15:01:07.334Z
