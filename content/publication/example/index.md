@@ -21,9 +21,10 @@ authors:
   - Boyuan Ren
   - Hongzhi Wang
 author_notes: []
-publication: "Arxiv "
-summary: This work is mainly a paradigm about blending ensemble-learning in
-  gradient-based meta-learning algorithm to attain better efficacy.
+publication: "arxiv: https://arxiv.org/abs/2206.09195"
+summary: This work is mainly about few-shot training paradigm of integrating
+  ensemble learning with gradient-based meta-learning to utilize advantages of
+  divergence and cooperation between experts to attain efficacy improvement.
 url_dataset: ""
 url_project: ""
 publication_short: (Accepted by WISE 2022)
@@ -36,7 +37,7 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: image.jpg
