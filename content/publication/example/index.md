@@ -15,7 +15,6 @@ abstract: To accelerate learning process with few samples, meta-learning resorts
 slides: example
 url_pdf: ""
 publication_types:
-  - "3"
   - "1"
 authors:
   - Geng Li
