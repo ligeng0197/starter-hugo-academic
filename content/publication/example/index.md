@@ -16,6 +16,7 @@ slides: example
 url_pdf: ""
 publication_types:
   - "3"
+  - "1"
 authors:
   - Geng Li
   - Boyuan Ren
@@ -39,10 +40,10 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-  filename: ""
+  filename: image.jpg
 date: 2022-07-14T14:57:22.859Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
