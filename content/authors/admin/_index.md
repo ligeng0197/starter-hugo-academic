@@ -10,13 +10,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: ligeng@stu.hit.edu.cn
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=0ufMJz4AAAAJ&gmla=AJsN-F4Yt-QQ0LJieitnLE8xLQMmiqnNkGsqeaUnDVgOdliVK-oLe65CkiTYKf6mLiSaGnBlhoBcct7hxVx3222Mook_AgvHw_Kqo8qDo1LhWrBcFI3oDuWqdGNloiuL_96uT-yYSkyc
   - icon: github
     icon_pack: fab
     link: https://github.com/ligeng0197
+  - icon: square-rss
+    icon_pack: fas
+    link: https://www.jianshu.com/u/06ed4bd17417
 organizations:
   - name: Harbin Institute of Technology
     url: https://www.hit.edu.cn/

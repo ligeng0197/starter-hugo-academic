@@ -25,7 +25,7 @@ publication: "WISE 2022 accepted. preprint arxiv: https://arxiv.org/abs/2206.091
 summary: This work is mainly about few-shot training paradigm of integrating
   ensemble learning with gradient-based meta-learning to utilize advantages of
   divergence and cooperation between experts to attain efficacy improvement.
-publication_short: (Accepted by WISE 2022)
+publication_short: Accepted by WISE 2022
 title: "EEML: Ensemble Embedded Meta-learning"
 doi: " https://doi.org/10.48550/arXiv.2206.09195"
 featured: true
@@ -36,6 +36,6 @@ image:
   preview_only: false
   filename: image.jpg
 date: 2022-07-14T14:57:22.859Z
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2022-09-03T00:00:00.000Z
 ---
 

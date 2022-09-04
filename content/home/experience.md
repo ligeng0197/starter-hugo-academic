@@ -12,17 +12,17 @@ experience:
     date_start: 2021-08-01
     date_end: ""
     description: |-2
-        under the guidance of Hongzhi Wang, I am studying in Massive Data Center Lab (HIT), mainly focusing on few-shot learning and meta-learning innovation and application.
+        under the guidance of Hongzhi Wang, I am studying in Massive Data Center Lab (HIT), mainly focusing on few-shot learning and meta-learning innovation and application with database case.
   
   - title: Algorithm Engineer Intern
     company: JD.COM
-    company_url: "https://corporate.jd.com/ourBusiness"
+    company_url: ""
     company_logo: jd
     location: Beijing, China
-    date_start: 2021-07-01
-    date_end: 2021-09-01
+    date_start: 2022-07-01
+    date_end: 2022-09-01
     description: |-2
-        As an intern of geographical map algorithm group, logistics department, JD.COM, I mainly focus on solving Delivery Block Division problem, one of combinatorial optimization assignment problems with geographical constraint. I develop double solutions utilizing linear(interger) programming &  elaborated genetic algorithm. More details can be found in Slide. Get praised as the best intern by both department leader & mentor.
+        As an intern of geographical map algorithm group, logistics department, JD.COM, I mainly focus on solving Delivery Block Division problem, one of combinatorial optimization assignment problems with geographical constraint. I develop double solutions utilizing linear(interger) programming &  elaborated genetic algorithm. More details can be found in {{< staticref "uploads/intern_ppt.pdf" "newtab" >}}Slides{{< /staticref >}}. Get praised as the best intern by both department leader & mentor.
 
   - title: Exchange Visiting Student
     company: Johns Hopkins University
