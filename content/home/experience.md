@@ -12,7 +12,7 @@ experience:
     date_start: 2021-08-01
     date_end: ""
     description: |-2
-        under the guidance of Hongzhi Wang, I am studying in Massive Data Center Lab (HIT), mainly focusing on few-shot learning and meta-learning innovation and application with database case.
+        Under the guidance of Hongzhi Wang, I am studying in Massive Data Center Lab (HIT), mainly focusing on few-shot learning and meta-learning innovation and application with database case.
   
   - title: Algorithm Engineer Intern
     company: JD.COM
