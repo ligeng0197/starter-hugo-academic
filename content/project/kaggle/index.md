@@ -31,5 +31,5 @@ url_video: ''
 slides: ""
 ---
 
-Role: Leader of the team.  
+**Role: Leader of the team.**   
 Designed two phases (detect & classify) to identify birds species from sound segment; Applied  Audio Spectrogram Transformer (AST), Vision Transformer (ViT), AlexNet, CNN-RNN network as backbone to both detect whether bird sound exists in segment and which kinds they are.

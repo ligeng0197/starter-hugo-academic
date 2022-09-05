@@ -31,5 +31,5 @@ url_video: ''
 slides: ""
 ---
 
-Role: Leader of the team.  
+**Role: Leader of the team.**   
 Propose a two components (prediction & decision) solution to help Alibaba Cloud (cloud host provider) maintain best-profits supply chain; Utilized LSTM, ARIMA, DeepAR time-sequential models to predict future demands; Designed dynamic safety stock policy to support decision.

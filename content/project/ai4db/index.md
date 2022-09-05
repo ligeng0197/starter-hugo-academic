@@ -32,5 +32,7 @@ url_video: ''
 slides: ""
 ---
 
-Supervisor: Hongzhi Wang, Professor in Faculty of Computing, HIT   
+**Supervisor: Hongzhi Wang, Professor in Faculty of Computing, HIT**
 Exploiting meta-learning mechanism to enhance model generalization with dynamically changing workload of database, with the aim of decreasing model retraining cost and improving overall knobs evaluation performance.
+
+Specifically, we mainly focus on utilizing gradient-based meta-learning on dataset knobs importance ranking & auto-tuning. Through considering each workload performance tests as a few-data task, we propose a meta-learning knobs importance ranking algorithm aimed at reducing dataset enormous knobs under the constraint of only few accessible attached configuration & performance samples each workload. We also design a differential tree model to leverage meta-learning paradigm for dataset performance evaluation & knobs tuning.

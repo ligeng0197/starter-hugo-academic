@@ -10,9 +10,9 @@ experience:
     company_logo: hit
     location: Harbin, China
     date_start: 2021-08-01
-    date_end: ""
+    date_end: "2023-06-01"
     description: |-2
-        Under the guidance of Hongzhi Wang, I am studying in Massive Data Center Lab (HIT), mainly focusing on few-shot learning and meta-learning innovation and application with database case.
+        Under the guidance of Hongzhi Wang, I am studying in Massive Data Center Lab, HIT, mainly focusing on few-shot learning and meta-learning algorithm innovation and application with database problems (AI4DB).
   
   - title: Algorithm Engineer Intern
     company: JD.COM
@@ -22,7 +22,8 @@ experience:
     date_start: 2022-07-01
     date_end: 2022-09-01
     description: |-2
-        As an intern of geographical map algorithm group, logistics department, JD.COM, I mainly focus on solving Delivery Block Division problem, one of combinatorial optimization assignment problems with geographical constraint. I develop double solutions utilizing linear(interger) programming &  elaborated genetic algorithm. More details can be found in {{< staticref "uploads/intern_ppt.pdf" "newtab" >}}Slides{{< /staticref >}}. Get praised as the best intern by both department leader & mentor.
+        As an algorithm engineer intern of geographical map algorithm group, logistics department, JD.COM. I mainly focus on solving Delivery Block Division problem, one of combinatorial optimization assignment problems with geographical constraints. Get praised as the best intern by department leader & mentor (oral:).
+        Related works are concluded in {{< staticref "uploads/intern_ppt.pdf" "newtab" >}}Slides{{< /staticref >}}. 
 
   - title: Exchange Visiting Student
     company: Johns Hopkins University
@@ -40,7 +41,7 @@ experience:
     location: Harbin, China
     date_start: 2017-08-01
     date_end: 2021-08-01
-    description: Harbin Institute of Technology is a public research university and a member of China's elite C9 League. HIT is a Chinese Ministry of Education Class A Double First Class University. Graduated from the Honor School.
+    description: Harbin Institute of Technology(HIT) is a public research university and a member of China's elite C9 League. HIT is a Chinese Ministry of Education Class A Double First Class University. I graduated from the Honors School & faculty of computing.
 
 widget_id: RECENT-POSTS
 headless: true
