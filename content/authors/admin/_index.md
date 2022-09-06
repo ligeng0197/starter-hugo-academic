@@ -37,4 +37,4 @@ highlight_name: true
 ---
 Geng Li is a postgraduate student at {{< staticref "https://www.hit.edu.cn/" "newtab" >}}Harbin Institute of Technology(HIT){{< /staticref >}}, {{< staticref "http://db.hit.edu.cn/" "newtab" >}}Massive Data Computing(MDC) Lab{{< /staticref >}}. His research interests include few-shot learning, meta-learning, AutoML. He has two finished works focusing on meta-learning and AutoML, one is accepted by WISE 2022, the other is under review of TKDE(after first rebuttal). Two works are in progress, one work about architecture-specific meta-learning is in schedule for CVPR 2023, the Other work about meta-learning for Database Knobs Auto-tune is in schedule for ICDE 2023.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_ligeng.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_ligeng.pdf" "newtab" >}}RESUME{{< /staticref >}}/{{< staticref "uploads/简历_李耕.pdf" "newtab" >}}简历{{< /staticref >}}.
