@@ -26,7 +26,7 @@ abstract: Humans can effortlessly locate desired objects in cluttered
   visual understanding and reduces hallucination issues in LMMs, achieving
   superior performance across both fixed and dynamic resolution models.
 draft: false
-featured: false
+featured: true
 image:
   filename: method.svg
   focal_point: Smart
