@@ -2,8 +2,7 @@
 title: "DyFo: A Training-Free Dynamic Focus Visual Search for Enhancing LMMs in
   Fine-Grained Visual Understanding"
 publication_types:
-  - "0"
-  - "7"
+  - "1"
 authors:
   - Geng Li
   - Jinglin Xu
