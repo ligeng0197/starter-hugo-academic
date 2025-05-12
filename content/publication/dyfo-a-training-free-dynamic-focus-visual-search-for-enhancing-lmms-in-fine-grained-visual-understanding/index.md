@@ -31,5 +31,5 @@ image:
   filename: method.svg
   focal_point: Smart
   preview_only: false
-date: 2025-05-12T05:54:53.639Z
+date: 2025-04-12T05:54:00.000Z
 ---
