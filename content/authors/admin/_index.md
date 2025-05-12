@@ -1,6 +1,6 @@
 ---
 title: Geng Li
-role: Second year Ph.D. student
+role: Ph.D. Student in Computer Science
 avatar_filename: avatar.jpg
 bio: My research interests include MLLMs/LMMs, fine-grained perception,
   multimodal reasoning
@@ -36,7 +36,6 @@ email: ligeng@stu.pku.edu.cn
 superuser: true
 highlight_name: true
 ---
-Ph.D. Student at the Wangxuan Institute of Computer Technology, Peking University, advised by Prof. Yuxin Peng.
 I am a second-year Ph.D. student at the Wangxuan Institute of Computer Technology, Peking University, advised by Prof. Yuxin Peng. My research focuses on Multimodal Large Language Models (MLLMs/LMMs), with a particular interest in fine-grained perception（CVPR 2025 Highlight / ICLR 2025 Poster）. I am also broadly interested in multimodal reasoning, LLM-based tool use, and embodied agents.
 Prior to joining PKU, I received both my Bachelor's and Master's degrees from Harbin Institute of Technology, where I worked with Prof. Hongzhi Wang on meta-learning.
 Beyond research, I enjoy playing badminton and exploring the I Ching (周易) — an ancient Chinese classic whose symbolic and philosophical system inspires my thinking about abstraction and reasoning.
