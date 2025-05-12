@@ -32,5 +32,10 @@ image:
   filename: method.svg
   focal_point: Smart
   preview_only: false
+summary: We propose Dyfo, a training-free visual search method that dynamically
+  guides large multimodal models to focus on task-relevant regions using
+  MCTS-based interaction with visual experts, significantly enhancing
+  fine-grained understanding and reducing hallucinations without additional
+  training or modules.
 date: 2025-04-12T05:54:00.000Z
 ---
