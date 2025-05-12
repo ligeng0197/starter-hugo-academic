@@ -9,6 +9,7 @@ authors:
   - Yunzhen Zhao
   - Yuxin Peng
 doi: https://doi.org/10.48550/arXiv.2504.14920
+publication: Accepted by CVPR 2025 Hightlight
 publication_short: CVPR 2025 Hightlight
 abstract: Humans can effortlessly locate desired objects in cluttered
   environments, relying on a cognitive mechanism known as visual search to
