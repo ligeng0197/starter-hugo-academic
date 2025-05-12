@@ -29,7 +29,7 @@ abstract: Multi-modal large language models (MLLMs) have shown remarkable
   datasets demonstrate that Finedefics outperforms existing MLLMs of comparable
   parameter sizes, showcasing its remarkable efficacy.
 draft: false
-featured: false
+featured: true
 image:
   filename: iclr.jpg
   focal_point: Smart
