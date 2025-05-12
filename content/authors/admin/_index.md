@@ -1,16 +1,17 @@
 ---
 title: Geng Li
-role: Postgraduate of Computer Science
+role: Second year Ph.D. student
 avatar_filename: avatar.jpg
-bio: My research interests include deep learning, few-shot learning, meta-learning.
+bio: My research interests include MLLMs/LMMs, fine-grained perception,
+  multimodal reasoning
 interests:
-  - Artificial Intelligence
-  - Few-shot Learning
-  - Meta-learning
+  - MLLMs/LMMs
+  - fine-grained perception
+  - multimodal reasoning
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:ligeng@stu.hit.edu.cn
+    link: mailto:ligeng@stu.pku.edu.cn
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=0ufMJz4AAAAJ&gmla=AJsN-F4Yt-QQ0LJieitnLE8xLQMmiqnNkGsqeaUnDVgOdliVK-oLe65CkiTYKf6mLiSaGnBlhoBcct7hxVx3222Mook_AgvHw_Kqo8qDo1LhWrBcFI3oDuWqdGNloiuL_96uT-yYSkyc
@@ -21,8 +22,8 @@ social:
     icon_pack: fas
     link: https://www.jianshu.com/u/06ed4bd17417
 organizations:
-  - name: Harbin Institute of Technology
-    url: https://www.hit.edu.cn/
+  - name: Peking University
+    url: https://www.pku.edu.cn/
 education:
   courses:
     - course: Msc in Computer Science
@@ -31,10 +32,13 @@ education:
     - course: Bsc in Computer Science
       institution: Harbin Institute of Technology
       year: ""
-email: ligeng@stu.hit.edu.cn
+email: ligeng@stu.pku.edu.cn
 superuser: true
 highlight_name: true
 ---
-Geng Li is a postgraduate student at {{< staticref "https://www.hit.edu.cn/" "newtab" >}}Harbin Institute of Technology(HIT){{< /staticref >}}, {{< staticref "http://db.hit.edu.cn/" "newtab" >}}Massive Data Computing(MDC) Lab{{< /staticref >}}. His research interests include few-shot learning, meta-learning, AutoML. He has two finished works focusing on meta-learning and AutoML, one is accepted by WISE 2022, the other is under review of TKDE(after first rebuttal). Two works are in progress, one work about architecture-specific meta-learning is in schedule for CVPR 2023, the Other work about meta-learning for Database Knobs Auto-tune is in schedule for ICDE 2023.
+Ph.D. Student at the Wangxuan Institute of Computer Technology, Peking University, advised by Prof. Yuxin Peng.
+I am a second-year Ph.D. student at the Wangxuan Institute of Computer Technology, Peking University, advised by Prof. Yuxin Peng. My research focuses on Multimodal Large Language Models (MLLMs/LMMs), with a particular interest in fine-grained perception（CVPR 2025 Highlight / ICLR 2025 Poster）. I am also broadly interested in multimodal reasoning, LLM-based tool use, and embodied agents.
+Prior to joining PKU, I received both my Bachelor's and Master's degrees from Harbin Institute of Technology, where I worked with Prof. Hongzhi Wang on meta-learning.
+Beyond research, I enjoy playing badminton and exploring the I Ching (周易) — an ancient Chinese classic whose symbolic and philosophical system inspires my thinking about abstraction and reasoning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_ligeng.pdf" "newtab" >}}RESUME{{< /staticref >}}/{{< staticref "uploads/简历_李耕.pdf" "newtab" >}}简历{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv*ligeng.pdf" "newtab" >}}RESUME{{< /staticref >}}/{{< staticref "uploads/简历*李耕.pdf" "newtab" >}}简历{{< /staticref >}}.
